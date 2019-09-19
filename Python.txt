@@ -1,0 +1,45 @@
+Python - Advanced Operations with NumPy Arrays
+
+Question 1 of 11
+Answer: vsplit(twod,2)
+
+Question 2 of 11
+Answers: A digital image is a multidimensional array and every pixel in a digital image is represented by a number
+
+In numpy, images can be represented as a 3D matrix where the first two dimensions represent the pixels in the image that are arranged in the form of a grid and the third dimension specifies the number of channels for the image
+
+Question 3 of 11
+Answer: concatenate((x1,x2),axis=1)
+
+Question 4 of 11
+Answer: TRUE = A, D
+FALSE = B, C
+
+Question 5 of 11
+Answer: TRUE = A
+FALSE = B, C, D
+
+Question 6 of 11
+Answer: [ [ 125, 216] , [ 8, 27] ]
+
+Question 7 of 11
+Answer: A particular column of a pandas dataframe can be referenced by its column header
+
+The column header of a Pandas dataframe can be treated in the same way as the index label of a numpy array
+
+Question 8 of 11
+Answer: This function would return a true boolean value if all the entries in your array are less than 50 and false otherwise
+
+Question 9 of 11
+Answer: phone_data[phone_data[‘price’] > 10000][‘phone name’]
+
+Question 10 of 11
+Answer: Broadcasting works when both the elements are scalars
+
+A smaller array can be broadcast on a larger array only when the corresponding dimensions of the two arrays being operated upon are compatible i.e. when the corresponding dimensions are equal or one of the two dimensions is 1
+
+Broadcasting works when at least one of the elements is a scalar
+
+Question 11 of 11
+Answer: TRUE = B, C, D
+FALSE = A
